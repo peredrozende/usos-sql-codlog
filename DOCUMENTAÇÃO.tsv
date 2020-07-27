@@ -1,0 +1,79 @@
+Arquivo	Variável	Descrição
+Frentes_de_quadra_2020.shp	SQ	Código Setor-Quadra da quadra fiscal
+Frentes_de_quadra_2020.shp	SQCODLOG	Código Setor-Quadra da quadra fiscal, seguido por código de cadastro do logradouro (CodLog)
+Frentes_de_quadra_2020.shp	S_APTO	Área construída fiscal em apartamento
+Frentes_de_quadra_2020.shp	S_DEPOSITO	Área construída fiscal em depósitos
+Frentes_de_quadra_2020.shp	S_ASILO	Área construída fiscal em asilos
+Frentes_de_quadra_2020.shp	S_TEATRO	Área construída fiscal em teatros
+Frentes_de_quadra_2020.shp	S_CLUBE	Área construída fiscal em clubes
+Frentes_de_quadra_2020.shp	S_CORTICO	Área construída fiscal em cortiços
+Frentes_de_quadra_2020.shp	S_ESCOLA	Área construída fiscal em escolas
+Frentes_de_quadra_2020.shp	S_ESCRITOR	Área construída fiscal em escritórios
+Frentes_de_quadra_2020.shp	S_ERBTV	Área construída fiscal em antenas ERB ou TV
+Frentes_de_quadra_2020.shp	S_FLATCOM	Área construída fiscal em flats comerciais
+Frentes_de_quadra_2020.shp	S_FLATRES	Área construída fiscal em flats residenciais
+Frentes_de_quadra_2020.shp	S_VAGA	Área construída fiscal em vagas
+Frentes_de_quadra_2020.shp	S_VAGAGAR	Área construída fiscal em vagas de garagem
+Frentes_de_quadra_2020.shp	S_VAGAESC	Área construída fiscal em vagas de garagem em condomínio de escritórios
+Frentes_de_quadra_2020.shp	S_VAGARES	Área construída fiscal em vagas de garagem em condomínio residencial
+Frentes_de_quadra_2020.shp	S_HOSPITAL	Área construída fiscal em hospital
+Frentes_de_quadra_2020.shp	S_HOTEL	Área construída fiscal em hotel
+Frentes_de_quadra_2020.shp	S_INDUSTRI	Área construída fiscal em indústria
+Frentes_de_quadra_2020.shp	S_LOJA	Área construída fiscal em loja
+Frentes_de_quadra_2020.shp	S_LOJARES	Área construída fiscal em loja e residência, predominantemente comercial
+Frentes_de_quadra_2020.shp	S_LOJACOND	Área construída fiscal em loja em condomínio
+Frentes_de_quadra_2020.shp	S_OFICINA	Área construída fiscal em oficina
+Frentes_de_quadra_2020.shp	S_COLETIVA	Área construída fiscal de uso coletivo
+Frentes_de_quadra_2020.shp	S_COLECOM	Área construída fiscal de uso coletivo predominantemente comercial
+Frentes_de_quadra_2020.shp	S_COLESERV	Área construída fiscal de uso coletivo predominantemente de serviços
+Frentes_de_quadra_2020.shp	S_ESPECIAL	Área construída fiscal de uso especial
+Frentes_de_quadra_2020.shp	S_POSTO	Área construída fiscal em posto
+Frentes_de_quadra_2020.shp	S_APTOED	Área construída fiscal em edifício de apartamentos
+Frentes_de_quadra_2020.shp	S_MISTOCOM	Área construída fiscal mista predominantemente comercial
+Frentes_de_quadra_2020.shp	S_COMED	Área construída fiscal em edifício comercial
+Frentes_de_quadra_2020.shp	S_MISTORES	Área construída fiscal mista predominantemente residencial
+Frentes_de_quadra_2020.shp	S_RESIDENC	Área construída fiscal residencial
+Frentes_de_quadra_2020.shp	S_RESICOL	Área construída fiscal residencial coletiva
+Frentes_de_quadra_2020.shp	S_RESIMIST	Área construída fiscal mista predominantemente residencial
+Frentes_de_quadra_2020.shp	S_TEMPLO	Área construída fiscal em templo
+Frentes_de_quadra_2020.shp	S_TERRENO	Área construída fiscal em terreno
+Frentes_de_quadra_2020.shp	S_TOTAL	Área construída fiscal total
+Frentes_de_quadra_2020.shp	C_APTO	Contagem de contribuintes em apartamento
+Frentes_de_quadra_2020.shp	C_DEPOSITO	Contagem de contribuintes em depósitos
+Frentes_de_quadra_2020.shp	C_ASILO	Contagem de contribuintes em asilos
+Frentes_de_quadra_2020.shp	C_TEATRO	Contagem de contribuintes em teatros
+Frentes_de_quadra_2020.shp	C_CLUBE	Contagem de contribuintes em clubes
+Frentes_de_quadra_2020.shp	C_CORTICO	Contagem de contribuintes em cortiços
+Frentes_de_quadra_2020.shp	C_ESCOLA	Contagem de contribuintes em escolas
+Frentes_de_quadra_2020.shp	C_ESCRITOR	Contagem de contribuintes em escritórios
+Frentes_de_quadra_2020.shp	C_ERBTV	Contagem de contribuintes em antenas ERB ou TV
+Frentes_de_quadra_2020.shp	C_FLATCOM	Contagem de contribuintes em flats comerciais
+Frentes_de_quadra_2020.shp	C_FLATRES	Contagem de contribuintes em flats residenciais
+Frentes_de_quadra_2020.shp	C_VAGA	Contagem de contribuintes em vagas
+Frentes_de_quadra_2020.shp	C_VAGAGAR	Contagem de contribuintes em vagas de garagem
+Frentes_de_quadra_2020.shp	C_VAGAESC	Contagem de contribuintes em vagas de garagem em condomínio de escritórios
+Frentes_de_quadra_2020.shp	C_VAGARES	Contagem de contribuintes em vagas de garagem em condomínio residencial
+Frentes_de_quadra_2020.shp	C_HOSPITAL	Contagem de contribuintes em hospital
+Frentes_de_quadra_2020.shp	C_HOTEL	Contagem de contribuintes em hotel
+Frentes_de_quadra_2020.shp	C_INDUSTRI	Contagem de contribuintes em indústria
+Frentes_de_quadra_2020.shp	C_LOJA	Contagem de contribuintes em loja
+Frentes_de_quadra_2020.shp	C_LOJARES	Contagem de contribuintes em loja e residência, predominantemente comercial
+Frentes_de_quadra_2020.shp	C_LOJACOND	Contagem de contribuintes em loja em condomínio
+Frentes_de_quadra_2020.shp	C_OFICINA	Contagem de contribuintes em oficina
+Frentes_de_quadra_2020.shp	C_COLETIVA	Contagem de contribuintes de uso coletivo
+Frentes_de_quadra_2020.shp	C_COLECOM	Contagem de contribuintes de uso coletivo predominantemente comercial
+Frentes_de_quadra_2020.shp	C_COLESERV	Contagem de contribuintes de uso coletivo predominantemente de serviços
+Frentes_de_quadra_2020.shp	C_ESPECIAL	Contagem de contribuintes de uso especial
+Frentes_de_quadra_2020.shp	C_POSTO	Contagem de contribuintes em posto
+Frentes_de_quadra_2020.shp	C_APTOED	Contagem de contribuintes em edifício de apartamentos
+Frentes_de_quadra_2020.shp	C_MISTOCOM	Contagem de contribuintes mista predominantemente comercial
+Frentes_de_quadra_2020.shp	C_COMED	Contagem de contribuintes em edifício comercial
+Frentes_de_quadra_2020.shp	C_MISTORES	Contagem de contribuintes mista predominantemente residencial
+Frentes_de_quadra_2020.shp	C_RESIDENC	Contagem de contribuintes residencial
+Frentes_de_quadra_2020.shp	C_RESICOL	Contagem de contribuintes residencial coletiva
+Frentes_de_quadra_2020.shp	C_RESIMIST	Contagem de contribuintes mista predominantemente residencial
+Frentes_de_quadra_2020.shp	C_TEMPLO	Contagem de contribuintes em templo
+Frentes_de_quadra_2020.shp	C_TERRENO	Contagem de contribuintes em terreno
+Frentes_de_quadra_2020.shp	C_TOTAL	Contagem de contribuintes total
+
+
